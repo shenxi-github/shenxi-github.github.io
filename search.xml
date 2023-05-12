@@ -29,6 +29,33 @@
     </entry>
     
     
+    
+    <entry>
+      <title>浅析butterfly.yml配置文件</title>
+      <link href="/posts/e05848bc.html"/>
+      <url>/posts/e05848bc.html</url>
+      
+        <content type="html"><![CDATA[<h1>浅析config.butterfly.yml文件</h1><h2 id="1-写在前面">1.写在前面</h2><h3 id="笔者接触这个hexo博客以及butterfly主题只有几天，对于其中的配置文件有很多不明白的地方，因此想写一个文档用于记录配置的具体含义，便于自身的学习与魔改。">笔者接触这个hexo博客以及butterfly主题只有几天，对于其中的配置文件有很多不明白的地方，因此想写一个文档用于记录配置的具体含义，便于自身的学习与魔改。</h3><h2 id="2-导航部分">2.导航部分</h2><p><img src="https://tuchuang.voooe.cn/images/2023/05/12/QQ20230512172047.png" alt="导航栏截图" title="导航栏截图"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 浅析butterfly.yml配置文件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 配置文件 </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>

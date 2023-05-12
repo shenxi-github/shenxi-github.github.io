@@ -39,4 +39,27 @@
     
   </entry>
   
+  <entry>
+    <title>浅析butterfly.yml配置文件</title>
+    <link href="https://www.fomal.cc/posts/e05848bc.html"/>
+    <id>https://www.fomal.cc/posts/e05848bc.html</id>
+    <published>2023-05-12T09:15:00.000Z</published>
+    <updated>2023-05-12T09:21:17.109Z</updated>
+    
+    <content type="html"><![CDATA[<h1>浅析config.butterfly.yml文件</h1><h2 id="1-写在前面">1.写在前面</h2><h3 id="笔者接触这个hexo博客以及butterfly主题只有几天，对于其中的配置文件有很多不明白的地方，因此想写一个文档用于记录配置的具体含义，便于自身的学习与魔改。">笔者接触这个hexo博客以及butterfly主题只有几天，对于其中的配置文件有很多不明白的地方，因此想写一个文档用于记录配置的具体含义，便于自身的学习与魔改。</h3><h2 id="2-导航部分">2.导航部分</h2><p><img src="https://tuchuang.voooe.cn/images/2023/05/12/QQ20230512172047.png" alt="导航栏截图" title="导航栏截图"></p>]]></content>
+    
+    
+    <summary type="html">浅析butterfly.yml配置文件</summary>
+    
+    
+    
+    <category term="浅析butterfly.yml配置文件" scheme="https://www.fomal.cc/categories/%E6%B5%85%E6%9E%90butterfly-yml%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/"/>
+    
+    
+    <category term="配置文件" scheme="https://www.fomal.cc/tags/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/"/>
+    
+    <category term="hexo" scheme="https://www.fomal.cc/tags/hexo/"/>
+    
+  </entry>
+  
 </feed>
